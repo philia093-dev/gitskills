@@ -3,3 +3,4 @@ HEAD
 Creating a new branch is quick & simple.
 featurel
 修改readme.txt文件
+修复bug
